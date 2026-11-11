@@ -34,6 +34,6 @@ Necesita Python 3.8 o superior. No hay que instalar nada extra (solo biblioteca 
 ## Integrantes
 - Integrante 1 – (Jhon Lopez Ortiz)
 - Integrante 2 – (Sherol Natalia Oviedo)
-- Integrante 3 – (Andrey Maldonado)
+- Integrante 3 – (Andrey Yair Maldonado)
 - Integrante 4 – (módulo a cargo)
 - Integrante 5 – (módulo a cargo)
