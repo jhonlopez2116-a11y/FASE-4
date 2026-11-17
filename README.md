@@ -32,7 +32,7 @@ Necesita Python 3.8 o superior. No hay que instalar nada extra (solo biblioteca 
 - **Estabilidad:** `GestorFJ.ejecutar` aísla cada operación, así un error nunca detiene el programa.
 
 ## Integrantes
-- Jhon López – main.py
+- Jhon López – main.py , servicios
 - Andrey Maldonado – entidades.py
 - Sherol Oviedo – excepciones.py, registro_logs,py
 
